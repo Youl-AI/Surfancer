@@ -1,5 +1,5 @@
 # 🌊 Surfancer: 환경 문제 해결을 위한 생존 디펜스 게임
-> **"Surface + Survivor + Defense" : 오염된 지구 표면에서 살아남아라!**
+> **"Surface + Survivor + Defense" : 오염된 지구 표면에서 살아남아라!**"
 
 ### 🛠️ Engine & Tools
 <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"> <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white">
