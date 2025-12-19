@@ -24,7 +24,6 @@
 
 ## 💡 2. Core Mechanics (핵심 시스템 기획)
 ![Dashboard Screenshot](./assets/Demo_UI.png)
-
 ### 2.1. Dynamic Pollution System (동적 오염도 시스템)
 단순한 체력바가 아니라, **육각 타일(Hexagon Tile)** 단위로 오염도가 전이되는 로직을 설계했습니다.
 
